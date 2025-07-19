@@ -40,6 +40,7 @@ body {
 
 .section-one {
     display: flex;
+    justify-content: center;
     align-items: center;
     background-color: #1F2937;
     color: #F9FAF8;
@@ -69,10 +70,8 @@ body {
 }
 
 .section-one-rightimage {
-    margin-left: auto;
     width: 500px;
-    height: 200px;
-    background-color: grey;
+    height: 250px;
 }
 
 /* Section 2 Styling */
