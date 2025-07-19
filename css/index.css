@@ -69,7 +69,7 @@ body {
     margin-top: 5px;
 }
 
-.section-one-rightimage {
+.section-one > img {
     width: 500px;
     height: 250px;
 }
