@@ -90,7 +90,7 @@ body {
 
 .section-two-images {
     display: flex;
-    gap: 5px;
+    gap: 10px;
 }
 
 .section-two-image {
@@ -107,12 +107,9 @@ body {
     font-size: 18px;
 }
 
-.image {
-    width: 120px;
+.section-two-image > img {
+    width: 180px;
     height: 120px;
-    padding: 0;
-    margin: 0;
-    border: 5px solid blue;
 }
 
 /* Section 3 Styling */
